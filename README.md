@@ -2,7 +2,7 @@
 
 A powerful, scalable, and user-friendly **Custom CRM System** developed by [WiseCode Studio](https://wisecodestudio.com/) — tailored to meet the unique needs of growing businesses.
 
-This <a href="[https://example.com](https://wisecodestudio.com/)">CRM solution</a> helps you manage leads, automate follow-ups, track property listings or customer profiles, schedule appointments, and monitor performance via real-time dashboards — all in one intuitive platform.
+This [CRM solution](https://www.wisecodestudio.com/) helps you manage leads, automate follow-ups, track property listings or customer profiles, schedule appointments, and monitor performance via real-time dashboards — all in one intuitive platform.
 
 ---
 
@@ -36,4 +36,3 @@ git clone https://github.com/wisecode1/custom-crm-solution.git
 cd custom-crm-solution
 npm install
 npm run dev
-
